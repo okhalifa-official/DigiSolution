@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://digisolution.app/sitemap.xml
