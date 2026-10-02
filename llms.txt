@@ -1,0 +1,25 @@
+# DigiSolution
+
+> DigiSolution is a digital solutions studio that builds websites, mobile apps, databases and custom business systems, and adds AI integrations and automations that remove repetitive work.
+
+## Pages
+
+- [Homepage](https://digisolution.app/): Services, how we work, the automation audit, FAQ and contact details.
+
+## Services
+
+- [Website development](https://digisolution.app/#services): Fast, clear websites that turn visitors into conversations.
+- [Mobile app development](https://digisolution.app/#services): iOS and Android apps designed around customers and teams.
+- [Database design and reporting](https://digisolution.app/#services): Reliable data storage and reporting.
+- [Custom business systems](https://digisolution.app/#services): Systems that replace spreadsheets and patchwork tools.
+- [AI integrations](https://digisolution.app/#services): Practical AI features added to existing tools.
+- [Workflow automation](https://digisolution.app/#services): Connect apps and remove repetitive manual tasks.
+
+## Process
+
+- [How we work](https://digisolution.app/#process): Discover, Design, Build, Launch and support.
+- [Automation audit](https://digisolution.app/#audit): A first conversation to find the best first thing to automate or build.
+
+## Contact
+
+- Email: support@digisolution.app
